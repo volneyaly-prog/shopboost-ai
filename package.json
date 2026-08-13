@@ -1,0 +1,11 @@
+{
+  "name": "shopboost-ai",
+  "version": "0.1.0",
+  "dependencies": {
+    "next": "14.2.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "@supabase/supabase-js": "^2.39.0",
+    "@anthropic-ai/sdk": "^0.20.0"
+  }
+}
